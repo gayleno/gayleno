@@ -1,8 +1,5 @@
-### Hey! Listen!
-
-I'm Gaylen, started at NAIT in fall of 2023 in the DMIT Business Analyst concentration and have been really enjoying learning about C#!
-
-When I get to a point of trying to share my work with others you will find it here, but for now all you get is this lousy sentence.
+# I'm Gaylen
+I teach Business Analysis and build systems to make parts of my life more efficient.
 
 <!--
 **gayleno/gayleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
